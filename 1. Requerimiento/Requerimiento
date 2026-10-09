@@ -1,0 +1,95 @@
+1. Nombre del Proyecto
+Sistema Transaccional de IA para la Compra de Productos Electrónicos
+
+2. Nombre de la Aplicación
+TechStore
+
+3. Propósito de la Solución de Software
+El propósito de TechStore es desarrollar un sistema de comercio electrónico que permita a los clientes consultar, comparar y comprar productos electrónicos de manera fácil y segura a través de una plataforma web.
+El sistema también contará con funcionalidades de Inteligencia Artificial para recomendar productos de acuerdo con los intereses, búsquedas y compras de los usuarios. Esto permitirá mejorar la experiencia del cliente y facilitar la elección de productos.
+
+4. Actores
+Los principales actores del sistema son:
+Cliente: Se registra, inicia sesión, consulta productos, realiza búsquedas, compara productos, agrega artículos al carrito y realiza compras.
+Administrador: Gestiona productos, categorías, precios, inventario, usuarios y pedidos.
+Sistema de IA: Analiza la información de los usuarios para generar recomendaciones de productos.
+Sistema de envíos: Gestiona la información relacionada con la entrega de los productos.
+
+5. Requerimiento
+La tienda TechStore requiere un sistema de comercio electrónico que permita gestionar la venta de productos electrónicos por Internet.
+La plataforma debe permitir a los clientes registrarse, consultar un catálogo de productos, realizar búsquedas, revisar las características de los artículos, agregarlos al carrito y realizar compras.
+Además, el sistema contará con un componente de Inteligencia Artificial que permita generar recomendaciones de productos según las preferencias y comportamiento de los clientes.
+
+6. Problemática
+La venta de productos electrónicos puede manejar una gran cantidad de referencias, características técnicas, precios y disponibilidad. Cuando esta información se administra de manera manual o mediante diferentes herramientas, pueden presentarse problemas para mantener actualizado el inventario y ofrecer información clara a los clientes.
+Por otra parte, los clientes pueden tener dificultades para encontrar el producto que necesitan debido a la gran variedad de opciones disponibles.
+Por esta razón, se plantea desarrollar una plataforma de e-commerce que centralice la información de los productos y facilite el proceso de compra, utilizando IA como apoyo para recomendar artículos.
+
+7. Misión (actualidad)
+Ofrecer una plataforma de comercio electrónico sencilla y accesible que permita a los clientes consultar y comprar productos electrónicos de forma rápida y segura, facilitando al mismo tiempo la administración de productos, inventario y pedidos.
+
+8. Visión (a futuro)
+Convertir TechStore en una plataforma de comercio electrónico moderna que utilice Inteligencia Artificial para ofrecer recomendaciones personalizadas, mejorar la experiencia de compra y apoyar la gestión de la tienda.
+
+9. Objetivo Principal
+Desarrollar un sistema de comercio electrónico para la venta de productos electrónicos que permita gestionar productos, clientes, compras e inventario, integrando funcionalidades de Inteligencia Artificial para mejorar la experiencia de los usuarios.
+
+10. Objetivos Específicos
+Diseñar un catálogo digital de productos electrónicos.
+Permitir el registro e inicio de sesión de los clientes.
+Implementar búsquedas y filtros por categorías, precios y características.
+Permitir consultar las características técnicas de cada producto.
+Implementar un carrito de compras.
+Permitir realizar pedidos y gestionar el proceso de compra.
+Permitir al administrador gestionar productos, precios y categorías.
+Controlar el inventario disponible.
+Permitir consultar el estado de los pedidos.
+Implementar recomendaciones de productos utilizando Inteligencia Artificial.
+Generar información que ayude al administrador a conocer los productos más vendidos.
+
+11. Escenario Actual
+Actualmente, la compra de productos electrónicos puede realizarse mediante tiendas físicas, redes sociales o diferentes plataformas de Internet.
+El cliente debe buscar manualmente los productos que necesita, comparar características, precios y disponibilidad entre diferentes opciones.
+Para la tienda, administrar productos, inventario y pedidos mediante procesos separados puede generar problemas como:
+Información desactualizada.
+Dificultad para controlar el inventario.
+Procesos de compra más lentos.
+Dificultad para realizar seguimiento de pedidos.
+Poca personalización para los clientes.
+Información de productos distribuida en diferentes medios.
+
+12. Escenario Futuro
+Con TechStore el cliente podrá ingresar a la plataforma, consultar el catálogo de productos electrónicos, buscar artículos mediante filtros, revisar sus características, comparar opciones y agregarlos al carrito.
+Posteriormente podrá realizar el pago y consultar el estado de su pedido desde la misma plataforma.
+El administrador tendrá acceso a un panel donde podrá gestionar:
+Productos.
+Categorías.
+Precios.
+Inventario.
+Clientes.
+Pedidos.
+Ventas.
+Además, el sistema utilizará Inteligencia Artificial para recomendar productos relacionados con los intereses del cliente.
+Por ejemplo, si un usuario consulta varias computadoras portátiles, el sistema podría recomendarle mouse, teclados, audífonos, memorias RAM o accesorios compatibles.
+
+13. Proceso con Enfoque de IA
+La Inteligencia Artificial se utilizará principalmente para ofrecer recomendaciones personalizadas de productos.
+El sistema podrá analizar información como:
+Productos consultados.
+Categorías visitadas.
+Productos agregados al carrito.
+Compras anteriores.
+Productos similares consultados.
+Con esta información, la IA podrá generar recomendaciones que ayuden al cliente a encontrar productos que puedan ser de su interés.
+Ejemplo
+Un cliente busca una computadora portátil para estudiar.
+El sistema puede analizar su búsqueda y recomendar:
+Mouse inalámbrico.
+Teclado.
+Audífonos.
+Memoria externa.
+Base refrigerante.
+Monitor.
+El proceso general sería:
+Cliente → Navega por la tienda → Sistema registra interacciones → IA analiza preferencias → Genera recomendaciones → Cliente selecciona productos → Compra
+En futuras versiones, la IA también podría utilizarse para analizar las ventas, identificar productos con mayor demanda y ayudar al administrador a tomar decisiones sobre inventario.
